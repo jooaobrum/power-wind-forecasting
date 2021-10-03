@@ -7,7 +7,7 @@ The world is changing towards renewable energy sources such as wind energy, wate
 
 A customer has set up a renewable energy farm which has several sensors ranging from capturing winds in the turbines to converting mechanical energy into electrical energy. For that, he would like a forecast for the next 7 days of the average power that a wind turbine can generate, in order to know if it will meet its weekly production target. 
 
-### Why make a sales forecast?
+### Why make a power forecast?
 The customer need to know the impact of the generation on the power grid and also  he needs to know if the amount of energy generated will be enough for his consumption. 
 
 ### Solution Format
